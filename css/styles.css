@@ -5,3 +5,11 @@
 h1 {
   color: red;
 }
+
+/*.btn {
+  display: block;
+}*/
+
+#prediction {
+  display: none;
+}
